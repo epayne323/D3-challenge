@@ -1,2 +1,2 @@
 # D3-challenge
-visualize health risks facing variousdemographics
+Use D3 to visualize health risks facing various demographics.
